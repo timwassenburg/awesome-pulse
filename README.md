@@ -9,6 +9,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Essentials](#essentials)
 - [Packages](#packages)
 - [Cards](#cards)
+- [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Demos](#demos)
 
@@ -32,6 +33,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Pulse GPT](https://github.com/kurbanatabinen/pulsegpt) - A Laravel Pulse card for [ChatGPT](https://chat.openai.com/)
 * [Mailcoach Pulse](https://github.com/spatie/mailcoach-pulse) - A Laravel Pulse card for [Mailcoach](https://mailcoach.app/)
 * [Flare Pulse](https://github.com/spatie/flare-pulse) - A Laravel Pulse card for [Flare](https://flareapp.io/)
+
+## Tutorials
+* [Creating a custom Laravel Pulse card](https://aaronfrancis.com/2023/composer-outdated-laravel-pulse) - by Aaron Francis
 
 ## Videos
 * [Introducing Laravel Pulse](https://www.youtube.com/watch?v=-9jV5ra5KB4) - by Jess Archer

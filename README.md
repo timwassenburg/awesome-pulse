@@ -1,4 +1,6 @@
-> A curated list of awesome packages, cards, tutorials, videos and other cool resources for Laravel Pulse.
+# Awesome Laravel Pulse
+
+> > A curated list of awesome packages, cards, tutorials, videos and other cool resources for Laravel Pulse.
 
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 

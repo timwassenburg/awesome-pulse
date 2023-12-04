@@ -9,13 +9,6 @@
 <!-- subtitle -->
 
 A curated list of awesome packages, cards, tutorials, videos and other cool resources for Laravel Pulse.
-<!-- image -->
-
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
-</a>
-
-Laravel Pulse offers concise insights into your app's performance and usage, enabling you to pinpoint slow processes, identify active users, and more.
 
 </div>
 

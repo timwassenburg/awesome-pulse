@@ -27,7 +27,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Cards
 
-* [Oh Dear Pulse](https://ohdearapp.com/pulse) - A Laravel Pulse card for [Oh Dear](https://ohdearapp.com/)
+* [Oh Dear Pulse](https://github.com/ohdearapp/ohdear-pulse) - A Laravel Pulse card for [Oh Dear](https://ohdearapp.com/)
 * [Pulse GPT](https://github.com/kurbanatabinen/pulsegpt) - A Laravel Pulse card for [ChatGPT](https://chat.openai.com/)
 * [Mailcoach Pulse](https://github.com/spatie/mailcoach-pulse) - A Laravel Pulse card for [Mailcoach](https://mailcoach.app/)
 * [Flare Pulse](https://github.com/spatie/flare-pulse) - A Laravel Pulse card for [Flare](https://flareapp.io/)

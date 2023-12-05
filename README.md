@@ -39,12 +39,17 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 
 ## Cards
 
+### Application
+* [Outdated Composer Dependencies](https://github.com/aarondfrancis/pulse-outdated) - Show outdated Composer dependencies
+* [About Application](https://github.com/denniseilander/pulse-about-application) - Show information about your application
+
+### External Services
 * [Oh Dear Pulse](https://github.com/ohdearapp/ohdear-pulse) - A Laravel Pulse card for [Oh Dear](https://ohdearapp.com/)
 * [Pulse GPT](https://github.com/kurbanatabinen/pulsegpt) - A Laravel Pulse card for [ChatGPT](https://chat.openai.com/)
 * [Mailcoach Pulse](https://github.com/spatie/mailcoach-pulse) - A Laravel Pulse card for [Mailcoach](https://mailcoach.app/)
 * [Flare Pulse](https://github.com/spatie/flare-pulse) - A Laravel Pulse card for [Flare](https://flareapp.io/)
-* [Outdated Composer Dependencies](https://github.com/aarondfrancis/pulse-outdated) - Show outdated Composer dependencies
-* [About Application](https://github.com/denniseilander/pulse-about-application) - Show information about your application
+
+### Server
 * [AppsLoad](https://github.com/eusonlito/LaravelPulse-AppsLoad) - Show Memory and CPU usage
 
 ## Tutorials

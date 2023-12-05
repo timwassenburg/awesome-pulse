@@ -45,6 +45,7 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 * [Flare Pulse](https://github.com/spatie/flare-pulse) - A Laravel Pulse card for [Flare](https://flareapp.io/)
 * [Outdated Composer Dependencies](https://github.com/aarondfrancis/pulse-outdated) - Show outdated Composer dependencies
 * [About Application](https://github.com/denniseilander/pulse-about-application) - Show information about your application
+* [AppsLoad](https://github.com/eusonlito/LaravelPulse-AppsLoad) - Show Memory and CPU usage
 
 ## Tutorials
 * [Creating a custom Laravel Pulse card](https://aaronfrancis.com/2023/composer-outdated-laravel-pulse) - by Aaron Francis

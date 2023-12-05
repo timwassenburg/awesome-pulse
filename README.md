@@ -31,7 +31,6 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 ## Packages
 
 * [Packagist](https://packagist.org/)
-* [Laravel Collective](https://laravelcollective.com/)
 * [Packalyst](http://packalyst.com/)
 * [Spatie](https://spatie.be/en/opensource/laravel)
 * [PulsePackageDB](https://pulsepackagedb.com/)
@@ -40,25 +39,24 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 ## Cards
 
 ### Application
-* [Outdated Composer Dependencies](https://github.com/aarondfrancis/pulse-outdated) - Show outdated Composer dependencies
 * [About Application](https://github.com/denniseilander/pulse-about-application) - Show information about your application
-
-### External Services
-* [Oh Dear Pulse](https://github.com/ohdearapp/ohdear-pulse) - A Laravel Pulse card for [Oh Dear](https://ohdearapp.com/)
-* [Pulse GPT](https://github.com/kurbanatabinen/pulsegpt) - A Laravel Pulse card for [ChatGPT](https://chat.openai.com/)
-* [Mailcoach Pulse](https://github.com/spatie/mailcoach-pulse) - A Laravel Pulse card for [Mailcoach](https://mailcoach.app/)
-* [Flare Pulse](https://github.com/spatie/flare-pulse) - A Laravel Pulse card for [Flare](https://flareapp.io/)
+* [Outdated Composer Dependencies](https://github.com/aarondfrancis/pulse-outdated) - Show outdated Composer dependencies
 
 ### Server
 * [AppsLoad](https://github.com/eusonlito/LaravelPulse-AppsLoad) - Show Memory and CPU usage
+
+### External Services
+* [Flare Pulse](https://github.com/spatie/flare-pulse) - A Laravel Pulse card for [Flare](https://flareapp.io/)
+* [Mailcoach Pulse](https://github.com/spatie/mailcoach-pulse) - A Laravel Pulse card for [Mailcoach](https://mailcoach.app/)
+* [Oh Dear Pulse](https://github.com/ohdearapp/ohdear-pulse) - A Laravel Pulse card for [Oh Dear](https://ohdearapp.com/)
+* [Pulse GPT](https://github.com/kurbanatabinen/pulsegpt) - A Laravel Pulse card for [ChatGPT](https://chat.openai.com/)
 
 ## Tutorials
 * [Creating a custom Laravel Pulse card](https://aaronfrancis.com/2023/composer-outdated-laravel-pulse) - by Aaron Francis
 
 ## Videos
-* [Introducing Laravel Pulse](https://www.youtube.com/watch?v=-9jV5ra5KB4) - by Jess Archer
 * [Dissecting Laravel Pulse](https://www.youtube.com/watch?v=R9l_g32ph9c) - by Mateus Guimarães
+* [Introducing Laravel Pulse](https://www.youtube.com/watch?v=-9jV5ra5KB4) - by Jess Archer
 
 ## Demos
-
-* [Pulse Demo](https://github.com/xuchunyang/pulse-demo) - A demo for Laravel Pulse
+* [Pulse Demo](https://github.com/xuchunyang/pulse-demo) - by Xu Chunyang

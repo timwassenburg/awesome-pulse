@@ -40,10 +40,13 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 
 ### Application
 * [About Application](https://github.com/denniseilander/pulse-about-application) - Show information about your application
+* [Log Files](https://github.com/denniseilander/pulse-log-files) - Show application log files
 * [Outdated Composer Dependencies](https://github.com/aarondfrancis/pulse-outdated) - Show outdated Composer dependencies
 
 ### Server
 * [AppsLoad](https://github.com/eusonlito/LaravelPulse-AppsLoad) - Show Memory and CPU usage
+* [Disk Metrics](https://github.com/geowrgetudor/disk-metrics) - Show disk usage
+* [Track 404 pages](https://github.com/geowrgetudor/404-monitor) - Track 404 pages
 
 ### External Services
 * [Flare Pulse](https://github.com/spatie/flare-pulse) - A Laravel Pulse card for [Flare](https://flareapp.io/)

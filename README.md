@@ -40,6 +40,7 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 
 ### Application
 * [About Application](https://github.com/denniseilander/pulse-about-application) - Show information about your application
+* [Artisan command history](https://github.com/geowrgetudor/command-history) - Show Artisan command history
 * [Log Files](https://github.com/denniseilander/pulse-log-files) - Show application log files
 * [Outdated Composer Dependencies](https://github.com/aarondfrancis/pulse-outdated) - Show outdated Composer dependencies
 

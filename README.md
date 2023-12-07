@@ -38,16 +38,24 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 
 ## Cards
 
-### Application
+### Application Information
 * [About Application](https://github.com/denniseilander/pulse-about-application) - Show information about your application
 * [Artisan command history](https://github.com/geowrgetudor/command-history) - Show Artisan command history
-* [Log Files](https://github.com/denniseilander/pulse-log-files) - Show application log files
-* [Outdated Composer Dependencies](https://github.com/aarondfrancis/pulse-outdated) - Show outdated Composer dependencies
 
-### Server
+### Error tracking
+* [4XX responses](https://github.com/morrislaptop/laravel-pulse-4xx) - Show 4XX responses
+* [Track 404 pages](https://github.com/geowrgetudor/404-monitor) - Track 404 pages
+
+### Log Management
+* [Log Files](https://github.com/denniseilander/pulse-log-files) - Show application log files
+
+### Dependency and Security
+* [Outdated Composer Dependencies](https://github.com/aarondfrancis/pulse-outdated) - Show outdated Composer dependencies
+* [Security Vulnerability Composer Dependencies](https://github.com/hungthai1401/vulnerable) - Show security vulnerability Composer dependencies
+
+### Server Management
 * [AppsLoad](https://github.com/eusonlito/LaravelPulse-AppsLoad) - Show Memory and CPU usage
 * [Disk Metrics](https://github.com/geowrgetudor/disk-metrics) - Show disk usage
-* [Track 404 pages](https://github.com/geowrgetudor/404-monitor) - Track 404 pages
 
 ### External Services
 * [Flare Pulse](https://github.com/spatie/flare-pulse) - A Laravel Pulse card for [Flare](https://flareapp.io/)

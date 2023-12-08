@@ -1,22 +1,14 @@
 <div align="center">
 
-<!-- title -->
-
-<!--lint ignore no-dead-urls-->
-
 # Awesome Laravel Pulse [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<p align="center">
-  <img src="images/logo.svg" alt="Laravel Pulse Logo">
+<p align="center" width="100%">
+  <img width="180px" src="images/logo.png" alt="Laravel Pulse Logo">
 </p>
-
-<!-- subtitle -->
 
 A curated list of awesome packages, cards, tutorials, videos and other cool resources for Laravel Pulse.
 
 </div>
-
-<!-- TOC -->
 
 ## Table of Contents
 

@@ -6,6 +6,10 @@
 
 # Awesome Laravel Pulse [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<p align="center">
+  <img src="images/logo.svg" alt="Laravel Pulse Logo">
+</p>
+
 <!-- subtitle -->
 
 A curated list of awesome packages, cards, tutorials, videos and other cool resources for Laravel Pulse.

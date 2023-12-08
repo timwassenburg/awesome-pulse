@@ -77,6 +77,7 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 * [Customizing Laravel Pulse](https://www.youtube.com/watch?v=oFxcWcP6bVE) - by Aaron Francis
 * [Dissecting Laravel Pulse](https://www.youtube.com/watch?v=R9l_g32ph9c) - by Mateus Guimarães
 * [Introducing Laravel Pulse](https://www.youtube.com/watch?v=-9jV5ra5KB4) - by Jess Archer
+* [Welcome Laravel Pulse](https://www.youtube.com/watch?v=kfMEm-LvYlc) - The official introduction to Laravel Pulse
 
 ## Demos
 * [Pulse Demo](https://github.com/xuchunyang/pulse-demo) - by Xu Chunyang

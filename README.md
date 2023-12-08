@@ -62,6 +62,7 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 ### Server Management
 * [AppsLoad](https://github.com/eusonlito/LaravelPulse-AppsLoad) - Show Memory and CPU usage
 * [Disk Metrics](https://github.com/geowrgetudor/disk-metrics) - Show disk usage
+* [Schedule](https://github.com/hosmelq/laravel-pulse-schedule) - List all scheduled tasks
 
 ### External Services
 * [Flare Pulse](https://github.com/spatie/flare-pulse) - A Laravel Pulse card for [Flare](https://flareapp.io/)
@@ -73,6 +74,7 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 * [Creating a custom Laravel Pulse card](https://aaronfrancis.com/2023/composer-outdated-laravel-pulse) - by Aaron Francis
 
 ## Videos
+* [Customizing Laravel Pulse](https://www.youtube.com/watch?v=oFxcWcP6bVE) - by Aaron Francis
 * [Dissecting Laravel Pulse](https://www.youtube.com/watch?v=R9l_g32ph9c) - by Mateus Guimarães
 * [Introducing Laravel Pulse](https://www.youtube.com/watch?v=-9jV5ra5KB4) - by Jess Archer
 

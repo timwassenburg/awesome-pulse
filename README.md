@@ -57,7 +57,9 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 
 ### Server Management
 * [AppsLoad](https://github.com/eusonlito/LaravelPulse-AppsLoad) - Show Memory and CPU usage
+* [Database status](https://github.com/maantje/pulse-database) - Show database status
 * [Disk Metrics](https://github.com/geowrgetudor/disk-metrics) - Show disk usage
+* [PHP FPM status](https://github.com/maantje/pulse-php-fpm) - Show PHP-FPM status
 * [Schedule](https://github.com/hosmelq/laravel-pulse-schedule) - List all scheduled tasks
 
 ### External Services
@@ -72,6 +74,7 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 ## Videos
 * [Customizing Laravel Pulse](https://www.youtube.com/watch?v=oFxcWcP6bVE) - by Aaron Francis
 * [Dissecting Laravel Pulse](https://www.youtube.com/watch?v=R9l_g32ph9c) - by Mateus Guimarães
+* [Insights and Application Performance](https://www.youtube.com/watch?v=5joyfmCmu-o) - by Andre Madarang
 * [Introducing Laravel Pulse](https://www.youtube.com/watch?v=-9jV5ra5KB4) - by Jess Archer
 * [Welcome Laravel Pulse](https://www.youtube.com/watch?v=kfMEm-LvYlc) - The official introduction to Laravel Pulse
 

@@ -45,7 +45,7 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 ### Application
 * [About Application](https://github.com/denniseilander/pulse-about-application) - Show information about your application
 * [Artisan command history](https://github.com/geowrgetudor/command-history) - Show Artisan command history
-* [Show Usage Distribution](https://github.com/abbasudo/pulse-users) - Show hourly distributed requests for users.
+* [Usage Distribution](https://github.com/abbasudo/pulse-users) - Show hourly distributed requests for users.
 
 ### Error tracking
 * [4XX responses](https://github.com/morrislaptop/laravel-pulse-4xx) - Show 4XX responses

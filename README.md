@@ -45,7 +45,7 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 ### Application
 * [About Application](https://github.com/denniseilander/pulse-about-application) - Show information about your application
 * [Artisan command history](https://github.com/geowrgetudor/command-history) - Show Artisan command history
-* [Show Usage Distribution](https://github.com/abbasudo/pulse-users) - Show a Hourly distributed requests for users.
+* [Show Usage Distribution](https://github.com/abbasudo/pulse-users) - Show hourly distributed requests for users.
 
 ### Error tracking
 * [4XX responses](https://github.com/morrislaptop/laravel-pulse-4xx) - Show 4XX responses
@@ -67,7 +67,7 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 
 ### External Services
 * [Flare Pulse](https://github.com/spatie/flare-pulse) - A Laravel Pulse card for [Flare](https://flareapp.io/)
-* [Guzzle Recorder](https://github.com/huzaifaarain/laravel-pulse-guzzle-recorder) - A Laravel Pulse card for Guzzle Recorder
+* [Guzzle Recorder](https://github.com/huzaifaarain/laravel-pulse-guzzle-recorder) - A Laravel Pulse card for [Guzzle](https://github.com/guzzle/guzzle)
 * [Health Checks](https://github.com/chris-ware/pulse-health-check) - A Laravel Pulse card for [Spatie Laravel Health](https://spatie.be/docs/laravel-health/v1/introduction)
 * [Mailcoach Pulse](https://github.com/spatie/mailcoach-pulse) - A Laravel Pulse card for [Mailcoach](https://mailcoach.app/)
 * [Oh Dear Pulse](https://github.com/ohdearapp/ohdear-pulse) - A Laravel Pulse card for [Oh Dear](https://ohdearapp.com/)

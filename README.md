@@ -89,5 +89,14 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 * [Dissecting Laravel Pulse](https://www.youtube.com/watch?v=R9l_g32ph9c) - by Mateus Guimarães
 * [Insights and Application Performance](https://www.youtube.com/watch?v=5joyfmCmu-o) - by Andre Madarang
 
+### Laravel Daily
+* [Laravel Migrations: Two "Tricks" from Laravel Pulse](https://www.youtube.com/watch?v=rByzMZwADbA)
+* [Logic in Blade Files and Code Co-Location: Pulse Example](https://www.youtube.com/watch?v=GKWQV97Wo9I)
+* [Laravel "Eternal" Artisan Command: "pulse:check" Example](https://www.youtube.com/watch?v=l36uqi9NARI)
+* [Laravel Methods Accepting Multiple Types: Pulse Example](https://www.youtube.com/watch?v=Wz-nZIVcIik)
+* [Livewire and Blade Components: Laravel Pulse Project Structure](https://www.youtube.com/watch?v=OEtkUxQg5xA)
+* [Laravel Pulse DB Queries: Indexing, JSON, Collections](https://www.youtube.com/watch?v=wH5-edYjVCI)
+* [PHP Array Destructuring: Example from Laravel Pulse](https://www.youtube.com/watch?v=PPyrA_MCQBM)
+
 ## Demos
 * [Pulse Demo](https://github.com/xuchunyang/pulse-demo) - by Xu Chunyang

@@ -44,6 +44,7 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 
 ### Application
 * [About Application](https://github.com/denniseilander/pulse-about-application) - Show information about your application
+* [Active Sessions](https://github.com/vcian/pulse-active-sessions) - Show total number of sessions
 * [Artisan command history](https://github.com/geowrgetudor/command-history) - Show Artisan command history
 * [Usage Distribution](https://github.com/abbasudo/pulse-users) - Show hourly distributed requests for users.
 

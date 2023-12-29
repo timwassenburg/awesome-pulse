@@ -25,6 +25,7 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
   - [Getting Started](#getting-started)
   - [How to create a card](#how-to-create-a-card)
   - [Advanced](#advanced)
+  - [Laravel Daily](#laravel-daily)
 - [Demos](#demos)
 
 ## Essentials

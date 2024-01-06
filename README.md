@@ -65,7 +65,9 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 * [AppsLoad](https://github.com/eusonlito/LaravelPulse-AppsLoad) - Show Memory and CPU usage
 * [Database status](https://github.com/maantje/pulse-database) - Show database status
 * [Disk Metrics](https://github.com/geowrgetudor/disk-metrics) - Show disk usage
+* [Docker Monitor](https://github.com/vcian/pulse-docker-monitor) - Monitor Docker containers
 * [PHP FPM status](https://github.com/maantje/pulse-php-fpm) - Show PHP-FPM status
+* [S3 Metrics](https://github.com/arcana-softworks/laravel-pulse-s3-metrics) - Show S3 metrics
 * [Schedule](https://github.com/hosmelq/laravel-pulse-schedule) - List all scheduled tasks
 
 ### External Services

@@ -47,7 +47,8 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 * [About Application](https://github.com/denniseilander/pulse-about-application) - Show information about your application
 * [Active Sessions](https://github.com/vcian/pulse-active-sessions) - Show total number of sessions
 * [Artisan command history](https://github.com/geowrgetudor/command-history) - Show Artisan command history
-* [Usage Distribution](https://github.com/abbasudo/pulse-users) - Show hourly distributed requests for users.
+* [Requests Graph](https://github.com/paulo-hortelan/requests-graph-pulse) - A graph for showing the latest requests
+* [Usage Distribution](https://github.com/abbasudo/pulse-users) - Show hourly distributed requests for users
 
 ### Error tracking
 * [4XX responses](https://github.com/morrislaptop/laravel-pulse-4xx) - Show 4XX responses
@@ -85,6 +86,7 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 
 ### How to create a card
 * [Creating a custom Laravel Pulse card](https://aaronfrancis.com/2023/composer-outdated-laravel-pulse) - by Aaron Francis
+* [Create Custom Cards in Laravel Pulse](https://www.youtube.com/watch?v=wSMa-ZEAYHk) - By Laravel
 
 ### Advanced
 * [Dissecting Laravel Pulse](https://www.youtube.com/watch?v=R9l_g32ph9c) - by Mateus Guimarães

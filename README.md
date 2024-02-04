@@ -47,7 +47,9 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 * [About Application](https://github.com/denniseilander/pulse-about-application) - Show information about your application
 * [Active Sessions](https://github.com/vcian/pulse-active-sessions) - Show total number of sessions
 * [Artisan command history](https://github.com/geowrgetudor/command-history) - Show Artisan command history
+* [Database transaction rollbacks](https://github.com/geowrgetudor/transaction-rollback) - Show database transaction rollbacks
 * [Requests Graph](https://github.com/paulo-hortelan/requests-graph-pulse) - A graph for showing the latest requests
+* [Request Recorder](https://github.com/chrysanthos/pulse-requests) - Record requests
 * [Usage Distribution](https://github.com/abbasudo/pulse-users) - Show hourly distributed requests for users
 
 ### Error tracking
@@ -64,6 +66,7 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 ### Server Management
 * [AppsLoad](https://github.com/eusonlito/LaravelPulse-AppsLoad) - Show Memory and CPU usage
 * [Database status](https://github.com/maantje/pulse-database) - Show database status
+* [Database Table Info](https://github.com/schmeits/pulse-database-table-info) - Show database table info
 * [Disk Metrics](https://github.com/geowrgetudor/disk-metrics) - Show disk usage
 * [Docker Monitor](https://github.com/vcian/pulse-docker-monitor) - Monitor Docker containers
 * [PHP FPM status](https://github.com/maantje/pulse-php-fpm) - Show PHP-FPM status
@@ -77,6 +80,7 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 * [Mailcoach Pulse](https://github.com/spatie/mailcoach-pulse) - A Laravel Pulse card for [Mailcoach](https://mailcoach.app/)
 * [Oh Dear Pulse](https://github.com/ohdearapp/ohdear-pulse) - A Laravel Pulse card for [Oh Dear](https://ohdearapp.com/)
 * [Pulse GPT](https://github.com/kurbanatabinen/pulsegpt) - A Laravel Pulse card for [ChatGPT](https://chat.openai.com/)
+* [Spatie Health Card]()https://github.com/DutchCodingCompany/pulse-spatie-health-check) - Show health check status
 
 ## Tutorials
 
@@ -84,6 +88,7 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 * [Customizing Laravel Pulse](https://www.youtube.com/watch?v=oFxcWcP6bVE) - by Aaron Francis
 * [Getting Started with Laravel Pulse](https://www.youtube.com/watch?v=di9fYHxdZ-8) - by Christoph Rumpel
 * [Introducing Laravel Pulse](https://www.youtube.com/watch?v=-9jV5ra5KB4) - by Jess Archer
+* [Laravel Pulse in action](https://www.youtube.com/watch?app=desktop&v=cUf7YkpNWWg) - by Code with Burt
 * [Welcome Laravel Pulse](https://www.youtube.com/watch?v=kfMEm-LvYlc) - The official introduction to Laravel Pulse
 
 ### How to create a card

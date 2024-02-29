@@ -81,7 +81,6 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 * [Mailcoach Pulse](https://github.com/spatie/mailcoach-pulse) - A Laravel Pulse card for [Mailcoach](https://mailcoach.app/)
 * [Oh Dear Pulse](https://github.com/ohdearapp/ohdear-pulse) - A Laravel Pulse card for [Oh Dear](https://ohdearapp.com/)
 * [Pulse GPT](https://github.com/kurbanatabinen/pulsegpt) - A Laravel Pulse card for [ChatGPT](https://chat.openai.com/)
-* [Spatie Health Card](https://github.com/DutchCodingCompany/pulse-spatie-health-check) - Show health check status
 
 ## Tutorials
 

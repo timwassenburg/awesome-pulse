@@ -51,6 +51,7 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 * [Requests Graph](https://github.com/paulo-hortelan/requests-graph-pulse) - A graph for showing the latest requests
 * [Request Recorder](https://github.com/chrysanthos/pulse-requests) - Record requests
 * [Usage Distribution](https://github.com/abbasudo/pulse-users) - Show hourly distributed requests for users
+* [Validation errors](https://github.com/timacdonald/pulse-validation-errors) - Show validation errors impacting users.
 
 ### Error tracking
 * [4XX responses](https://github.com/morrislaptop/laravel-pulse-4xx) - Show 4XX responses

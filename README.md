@@ -68,12 +68,15 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 * [AppsLoad](https://github.com/eusonlito/LaravelPulse-AppsLoad) - Show Memory and CPU usage
 * [Database status](https://github.com/maantje/pulse-database) - Show database status
 * [Database Table Info](https://github.com/schmeits/pulse-database-table-info) - Show database table info
+* [Database Table Size](https://github.com/eusonlito/LaravelPulseDatabaseTablesSize) - Shows the database table size
 * [Disk Metrics](https://github.com/geowrgetudor/disk-metrics) - Show disk usage
 * [Docker Monitor](https://github.com/vcian/pulse-docker-monitor) - Monitor Docker containers
+* [MySql DB Auditor](https://github.com/vcian/pulse-mysql-db-auditor) - Audit for your MySql database
 * [PHP FPM status](https://github.com/maantje/pulse-php-fpm) - Show PHP-FPM status
 * [Remote Server](https://github.com/wrklst/pulse-remote-server) - Show remote server status
 * [S3 Metrics](https://github.com/arcana-softworks/laravel-pulse-s3-metrics) - Show S3 metrics
 * [Schedule](https://github.com/hosmelq/laravel-pulse-schedule) - List all scheduled tasks
+* [Slow MongoDB Queries](https://github.com/rahimi-ali/pulse-slow-mongo-queries) - Shows slow MongoDB queries
 
 ### External Services
 * [Flare Pulse](https://github.com/spatie/flare-pulse) - A Laravel Pulse card for [Flare](https://flareapp.io/)

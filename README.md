@@ -73,6 +73,7 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 * [Docker Monitor](https://github.com/vcian/pulse-docker-monitor) - Monitor Docker containers
 * [MySql DB Auditor](https://github.com/vcian/pulse-mysql-db-auditor) - Audit for your MySql database
 * [PHP FPM status](https://github.com/maantje/pulse-php-fpm) - Show PHP-FPM status
+* [Redis monitoring](https://github.com/PraatmetdeDokter/pulse-redis-monitor) - Shows Redis metrics
 * [Remote Server](https://github.com/wrklst/pulse-remote-server) - Show remote server status
 * [S3 Metrics](https://github.com/arcana-softworks/laravel-pulse-s3-metrics) - Show S3 metrics
 * [Schedule](https://github.com/hosmelq/laravel-pulse-schedule) - List all scheduled tasks

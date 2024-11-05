@@ -48,6 +48,7 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 * [Active Sessions](https://github.com/vcian/pulse-active-sessions) - Show total number of sessions
 * [Artisan command history](https://github.com/geowrgetudor/command-history) - Show Artisan command history
 * [Database transaction rollbacks](https://github.com/geowrgetudor/transaction-rollback) - Show database transaction rollbacks
+* [PanPHP analytics](https://github.com/schmeits/pulse-panphp) - Displays the Pan PHP Analytics information
 * [Requests Graph](https://github.com/paulo-hortelan/requests-graph-pulse) - A graph for showing the latest requests
 * [Request Recorder](https://github.com/chrysanthos/pulse-requests) - Record requests
 * [Usage Distribution](https://github.com/abbasudo/pulse-users) - Show hourly distributed requests for users

@@ -39,7 +39,6 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 * [Packalyst](http://packalyst.com/)
 * [Spatie](https://spatie.be/en/opensource/laravel)
 * [PulsePackageDB](https://pulsepackagedb.com/)
-* [Built for Pulse](https://builtforpulse.com/)
 
 ## Cards
 

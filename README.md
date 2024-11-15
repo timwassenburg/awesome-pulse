@@ -21,6 +21,7 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
   - [Dependency and Security](#dependency-and-security)
   - [Server Management](#server-management)
   - [External Services](#external-services)
+- [Extensions](#extensions)
 - [Tutorials](#tutorials)
   - [Getting Started](#getting-started)
   - [How to create a card](#how-to-create-a-card)

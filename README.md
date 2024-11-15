@@ -69,6 +69,7 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 * [Database status](https://github.com/maantje/pulse-database) - Show database status
 * [Database Table Info](https://github.com/schmeits/pulse-database-table-info) - Show database table info
 * [Database Table Size](https://github.com/eusonlito/LaravelPulseDatabaseTablesSize) - Shows the database table size
+* [DB Size](https://github.com/robertogallea/pulse-db-size) - Displays database size
 * [Disk Metrics](https://github.com/geowrgetudor/disk-metrics) - Show disk usage
 * [Docker Monitor](https://github.com/vcian/pulse-docker-monitor) - Monitor Docker containers
 * [MySql DB Auditor](https://github.com/vcian/pulse-mysql-db-auditor) - Audit for your MySql database
@@ -86,6 +87,9 @@ A curated list of awesome packages, cards, tutorials, videos and other cool reso
 * [Mailcoach Pulse](https://github.com/spatie/mailcoach-pulse) - A Laravel Pulse card for [Mailcoach](https://mailcoach.app/)
 * [Oh Dear Pulse](https://github.com/ohdearapp/ohdear-pulse) - A Laravel Pulse card for [Oh Dear](https://ohdearapp.com/)
 * [Pulse GPT](https://github.com/kurbanatabinen/pulsegpt) - A Laravel Pulse card for [ChatGPT](https://chat.openai.com/)
+
+## Extensions
+* [API layer for Pulse metrics](https://github.com/robertogallea/pulse-api) - provides the information from Laravel Pulse as a JSON api endpoint
 
 ## Tutorials
 
